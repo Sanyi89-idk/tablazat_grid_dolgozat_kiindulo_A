@@ -30,7 +30,15 @@ header{
 
 }
 
-th, td{
-    
+table, th, td{
+    border: 1px solid;
 
+}
+
+th , td {
+    text-align: left;
+}
+
+tr:nth-child(odd){
+    background-color: darkgreen;
 }
