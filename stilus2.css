@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(208, 240, 229);
+}
+
+a{
+    background-color: darkgreen;
+    color: white;
+    text-decoration: none;
+}
+
+table{
+    border-collapse: collapse;
+    border: 1px solid green;
+}
+
+header{
+    
+}
