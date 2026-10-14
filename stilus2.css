@@ -6,10 +6,17 @@ body{
     background-color: rgb(208, 240, 229);
 }
 
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 10px;
+    
+}
+
 a{
     background-color: darkgreen;
     color: white;
     text-decoration: none;
+    border: 10px;
 }
 
 table{
@@ -18,5 +25,12 @@ table{
 }
 
 header{
+    background-color: darkgreen;
+    color: white;
+
+}
+
+th, td{
     
+
 }
